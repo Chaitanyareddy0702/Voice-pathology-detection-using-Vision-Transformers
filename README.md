@@ -1,8 +1,5 @@
 # Voice-pathology-detection-using-Vision-Transformers
 Voice pathology detection using VMD (Variational Mode Decomposition) and Vision Transformers and Machine Learning
-
-# Voice Pathology Detection Project
-
 This repository contains the code and resources for a project focused on voice pathology detection using two different approaches: Machine Learning and Deep Learning.
 
 ## Overview
