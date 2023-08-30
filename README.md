@@ -11,7 +11,7 @@ The project aims to detect voice pathology by analyzing vocal recordings of the 
 
 ### Dataset
 
-The vocal recordings used in this project were sourced from the SVD (Sustained Vowel Database) databases. The dataset comprises voices of the vowel /a/ and is considered a benchmark in the field. Within the SVD database, three voice classes were selected:
+The vocal recordings used in this project were sourced from the SVD database. The dataset comprises voices of the vowel /a/ and is considered a benchmark in the field. Within the SVD database, three voice classes were selected:
 
 1. **Healthy**: Voices belonging to the healthy class.
 2. **Reinke Odem**: Voices belonging to the pathological class known as Reinke Odem.
@@ -46,8 +46,10 @@ In the Deep Learning approach, the following steps were undertaken:
 To use this codebase, follow these steps:
 
 1. Prepare your voice dataset in the `data/` directory.
-2. Modify the paths and parameters in the code files as needed.
-3. Execute the code files in the `machine_learning_approach/` and `deep_learning_approach/` directories sequentially.
+2. Seperate the train data and test data.
+3. Prepare a csv file such that it should contains names of all audio files and the pathology associated with the voice
+4. Use `VMD-Melspectrogram.py/` file to generate Mel-spectograms.
+5. Chnage the paths of the folders and csv file in `Voice-pathology-detection.py/` file and run python file.
 
 
 If you have any questions or suggestions, feel free to contact the project contributors:
