@@ -46,7 +46,7 @@ To use this codebase, follow these steps:
 2. Seperate the train data and test data.
 3. Prepare a csv file such that it should contains names of all audio files and the pathology associated with the voice
 4. Use `VMD-Melspectrogram.py/` file to generate Mel-spectograms.
-5. Chnage the paths of the folders and csv file in `Voice-pathology-detection.py/` file and run python file.
+5. Change the paths of the folders and csv file in `Voice-pathology-detection.py/` file and run python file.
 
 
 If you have any questions or suggestions, feel free to contact the project contributors:
