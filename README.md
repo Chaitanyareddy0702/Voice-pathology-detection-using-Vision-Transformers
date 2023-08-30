@@ -55,7 +55,7 @@ If you have any questions or suggestions, feel free to contact the project contr
 - Illa Dinesh Kumar - idineshkumar12321@gmail.com
 - Guttula Pavan - pavanguttula123@gmail.com
 - Pillalamarri Akshaya - akshayapillalamarri213@gmail.com
-- Edpugnati Anirudh - aniedpuganti@gmail.com
+-  Anirudh Edpugnati - aniedpuganti@gmail.com
 
 ---
 
